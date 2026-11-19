@@ -1,3 +1,4 @@
+
 # postgres-deployment.yml - keeps one postgres pod running
 # Uses three other files by name: the Secret, the ConfigMap and the PVC
 apiVersion: apps/v1
